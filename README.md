@@ -1,4 +1,4 @@
-- 👋 Hey ya, it's Marxel. You can call me just Marx..., or Xel, or Marxel wholely works.
+- 👋 Hey ya, it's Marxel. You can call me just Marx..., or Xel, or Marxel as a whole works.
 - 👀 I’m planning on being a game developer. Maybe RPG or adventure games.
 - 🌱 I’m currently studying for a Bachelor's degree in computer science.
 - 💞️ I'll be looking forward in collaborating with fellow game designers and developers.
