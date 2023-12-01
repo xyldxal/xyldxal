@@ -1,4 +1,4 @@
-- 👋 Marx!
+- 👋 Hello, I'm Marx!
 - 👀 I’m planning on being a game developer. Maybe RPG or adventure games.
 - 🌱 I’m currently studying for a Bachelor's degree in computer science.
 - 💞️ I'll be looking forward in collaborating with fellow game designers and developers.
