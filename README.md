@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Marx!
-- 👀 I’m planning on being a game developer. Maybe RPG or adventure games.
-- 🌱 I’m currently studying for a Bachelor's degree in computer science.
-- 💞️ I'll be looking forward in collaborating with fellow game designers and developers.
+- 👀 I aspire to become a game developer. My passion is on RPG and adventure games
+- 🌱 I’m currently studying for a Bachelor's degree in Computer Science with a major in Health Informatics in the University of the Philippines Manila!
+- 💞️ I'll be looking forward in collaborating with fellow game designers and developers, as well as other software engineers.
 
 <!---
 xyldxal/xyldxal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
