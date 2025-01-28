@@ -30,6 +30,7 @@
 </div>
 
 <div align="center">
+
 ### **Web Development**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -39,6 +40,7 @@
 </div>
 
 <div align="center">
+
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
@@ -47,6 +49,7 @@
 </div>
 
 <div align="center">
+
 ### **Frameworks**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
@@ -56,6 +59,7 @@
 </div>
 
 <div align="center">
+
 ### **Design & Tools**
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
@@ -66,6 +70,7 @@
 </div>
 
 <div align="center">
+
 ### **Computer Science!**
 ![Calculus I-III](https://img.shields.io/badge/Calculus_I--III-%232C2255?logo=integral&logoColor=white&labelColor=2C2255)
 ![Discrete Mathematics](https://img.shields.io/badge/Discrete_Math-%23007296?logo=mathworks&logoColor=white&labelColor=007296)
@@ -77,6 +82,7 @@
 </div>
 
 <div align="center">
+
 ## 📫 **Contact me!**
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/xyldxal)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:xyldxal@gmail.com)
