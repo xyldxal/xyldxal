@@ -1,7 +1,5 @@
 # 🎮 Hello, I'm Marx! 👋  
 
----
-
 ## 🔥 **About Me** 
 
 - 🌟 **Aspring game developer**! My passion is on RPG and adventure games.
@@ -9,16 +7,11 @@
 - 🎓 Pursuing a **Bachelor's degree in Computer Science** at the University of the Philippines Manila
 - 🩺 Majoring in **Biomedical Informatics**
 
----
-
-
 ## 🚀 **What I’m Up To**
 
 - **👾Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
 - **Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
 - 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
-
----
 
 
 ## 🛠️ **Skills & Tools**
@@ -63,8 +56,6 @@
 ![Statistics](https://img.shields.io/badge/Statistics-%23FF6F61?logo=chart-bar&logoColor=white&labelColor=FF6F61)
 ![Logic Design](https://img.shields.io/badge/Logic_Design-%235E35B1?logo=circuit-diagram&logoColor=white&labelColor=5E35B1)
 ![Health Informatics](https://img.shields.io/badge/Health_Informatics-%23009688?logo=medical-bag&logoColor=white&labelColor=009688)
-
----
 
 ## 📫 **Contact me!**
 - 💼 [LinkedIn](https://linkedin.com/in/xyldxal)  
