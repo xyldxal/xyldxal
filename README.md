@@ -1,25 +1,20 @@
-- 👋 Hello, I'm Marx!
-- 👀 I aspire to become a game developer. My passion is on RPG and adventure games.
-- 🌱 I’m currently studying for a Bachelor's degree in Computer Science in the University of the Philippines Manila!
-- 🩺 I am majoring in the field of Biomedical Informatics!
-- 💞️ I'll be looking forward in collaborating with fellow game designers and developers, as well as other software engineers.
-
 # 🎮 Hello, I'm Marx! 👋  
 
 ---
 
 ## 🔥 **About Me** 
 
-- 🌟 **Aspring game developer**. My passion is on RPG and adventure games.
-- 🌱 **Aspiring full stack developer**
-- 🎓 Pursuing a **Bachelor's degree in Computer Science** at the University of the Philippines Manila, major in 🩺 **Biomedical Informatics**
+- 🌟 **Aspring game developer**! My passion is on RPG and adventure games.
+- 🌱 **Aspiring full-stack developer**. Nevertheless, computer science has always been a passion my whole life
+- 🎓 Pursuing a **Bachelor's degree in Computer Science** at the University of the Philippines Manila
+- 🩺 Majoring in **Biomedical Informatics**
 
 ---
 
 
 ## 🚀 **What I’m Up To**
 
-- **Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
+- **👾Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
 - **Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
 - 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
 
@@ -59,11 +54,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Git](https://imgi.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 🧠 **Knowledge Base**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ### **Computer Science!**
 ![Calculus I-III](https://img.shields.io/badge/Calculus_I--III-%232C2255?logo=integral&logoColor=white&labelColor=2C2255)
@@ -75,7 +66,7 @@
 
 ---
 
-## 📫 **Let’s Connect!**
+## 📫 **Contact me!**
 - 💼 [LinkedIn](https://linkedin.com/in/xyldxal)  
 - 📧 **Email**: xyldxal@gmail.com
 ---
