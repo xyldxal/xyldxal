@@ -1,22 +1,22 @@
 # 🎮 Hello, I'm Marx! 👋  
 
-## 🔥 **About Me** 
+## 👀 **About me** 
 
 - 🌟 **Aspring game developer**! My passion is on RPG and adventure games.
-- 🌱 **Aspiring full-stack developer**. Nevertheless, computer science has always been a passion my whole life
+- 🌱 **Aspiring full-stack developer**. Nevertheless, computer science has always been a passion my whole life.
 - 🎓 Pursuing a **Bachelor's degree in Computer Science** at the University of the Philippines Manila
 - 🩺 Majoring in **Biomedical Informatics**
 
-## 🚀 **What I’m Up To**
+## 🚀 **What I’m up to**
 
 - **👾Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
 - **Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
 - 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
 
 
-## 🛠️ **Skills & Tools**
+## 🛠️ **Skills & tools**
 
-<div align="center">
+<div style="text-align: center;">
 
 ### **Programming**
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
@@ -29,9 +29,9 @@
 
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
-### **Web Development**
+### **Web development**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@
 
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
@@ -48,7 +48,7 @@
 
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
 ### **Frameworks**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -58,9 +58,9 @@
 
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
-### **Design & Tools**
+### **Design & tools**
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -69,9 +69,9 @@
 
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
-### **Computer Science!**
+### **Computer science!**
 ![Calculus I-III](https://img.shields.io/badge/Calculus_I--III-%232C2255?logo=integral&logoColor=white&labelColor=2C2255)
 ![Discrete Mathematics](https://img.shields.io/badge/Discrete_Math-%23007296?logo=mathworks&logoColor=white&labelColor=007296)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-%230092EE?logo=matrix&logoColor=white&labelColor=0092EE)
@@ -81,9 +81,10 @@
 
 </div>
 
-<div align="center">
-
 ## 📫 **Contact me!**
+
+<div style="text-align: center;">
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/xyldxal)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:xyldxal@gmail.com)
 
