@@ -10,7 +10,7 @@
 ## 🚀 **What I’m up to**
 
 - **👾Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
-- **Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
+- **✨Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
 - 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
 
 
@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_x86-2C2255?logo=assemblyscript&logoColor=white)
 
-### Web Development
+### Web development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -44,14 +44,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
-### Design & Tools
+### Design & tools
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-### Computer Science!
+### Computer science!
 ![Calculus I-III](https://img.shields.io/badge/Calculus_I--III-%232C2255?logo=integral&logoColor=white&labelColor=2C2255)
 ![Discrete Mathematics](https://img.shields.io/badge/Discrete_Math-%23007296?logo=mathworks&logoColor=white&labelColor=007296)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-%230092EE?logo=matrix&logoColor=white&labelColor=0092EE)
@@ -61,7 +61,7 @@
 
 </div>
 
-## 📫 Contact Me!
+## 📫 Contact me!
 
 <div align="center">
 
