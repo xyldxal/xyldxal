@@ -1,5 +1,7 @@
 # 🎮 Hello, I'm Marx! 👋  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyldxal&label=Profile%20views&color=9F2B68&style=flat" alt="xyldxal" /> </p>
+
 ## 👀 **About me** 
 
 - 🌟 **Aspring game developer**! My passion is on RPG and adventure games.
