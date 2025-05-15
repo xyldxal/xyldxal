@@ -11,7 +11,7 @@
 
 ## 🚀 **What I’m up to**
 
-- **👾Pokémon ROM Hack**: I'm developing a ROM hack that involves a region inspired by the Philippines.  
+- **👾Pokémon ROM Hack**: I'm working on Pokemon Monsoon, a ROM hack involving a region inspired by the Philippines.  
 - **✨Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
 - 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
 
