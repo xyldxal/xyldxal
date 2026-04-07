@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&speed=200&pause=500&color=7851A9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marx!+%F0%9F%91%8B;@xyldxal;Game+developer+%F0%9F%8E%AE;Pok%C3%A9mon+master+%E2%9C%A8;Software+engineer+%F0%9F%92%BB;Sudoku+savant+%F0%9F%A7%A9;Bioinformaticist%2C+apparently+%F0%9F%AA%BA;Taking+drowning+lessons+%F0%9F%8C%8A;Strawberry+fields%2C+forever.+%F0%9F%8D%93;Is+this+Tagalog%3F+%F0%9F%87%B5%F0%9F%87%AD;Midas+touch.+%E2%9C%A8;404%2C+not+Found+in+the+system;404%2C+the+new+era%2C+era" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&letterSpacing=-2px&duration=1350&pause=1000&color=7851A9&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marx!+%F0%9F%91%8B;@xyldxal;Game+developer+%F0%9F%8E%AE;Pok%C3%A9mon+master+%E2%9C%A8;Software+engineer+%F0%9F%92%BB;Sudoku+savant+%F0%9F%A7%A9;Bioinformaticist%2C+apparently+%F0%9F%AA%BA;Taking+drowning+lessons+%F0%9F%8C%8A;Strawberry+fields%2C+forever.+%F0%9F%8D%93;Is+this+Tagalog%3F+%F0%9F%87%B5%F0%9F%87%AD;Midas+touch.+%E2%9C%A8;404%2C+not+Found+in+the+system;404%2C+the+new+era%2C+era" alt="Typing SVG" /> </p>
 
 <div align="center">
 
@@ -13,14 +13,14 @@
 
 ## 👀 **About me** 
 
-I am an aspiring game developer with a passion for RPGs and adventure games, though computer science has been a lifelong pursuit of mine. Currently, I am pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila, where I am majoring in Biomedical Informatics.
+I am an aspiring game developer with a passion for RPGs and adventure games, though computer science has been a lifelong pursuit of mine. Nevertheless, I can thrive as a jack of all trades. Currently, I am pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila, where I am majoring in Biomedical Informatics.
 
 ## 🚀 **What I’m up to**
 
-- **🔬 Thesis**: Currently working on my thesis involving a VR platform for early Alzheimer's disease and mild cognitive impairment rehabilitation with adaptive difficulty.
-- **👾 Pokémon Monsoon**: Developing a region inspired by the Philippines in this ROM hack project.
-- **✨ Studying**: Diving deep into cryptography, retro console ROM scripting, game engines, and Blender—essentially anything I can place my initiative on.
-- **🤝 Looking to collaborate** with game designers, developers, software engineers, researchers, and other cool people.
+- **My thesis**: I'm currently working on my thesis involving a VR platform for early Alzheimer's disease and mild cognitive impairment rehabilitation with adaptive difficulty.
+- **Pokémon ROM Hack**: I'm working on Pokemon Monsoon, a ROM hack involving a region inspired by the Philippines.  
+- **Studying**: Cryptography, retro console ROM scripting, game engines, and Blender—essentially anything I can place my initiative on.
+- Looking to collaborate with game designers, developers, software engineers, researchers, and other **cool people**.
 
 ## 🎮 Games
 
@@ -36,8 +36,8 @@ I am an aspiring game developer with a passion for RPGs and adventure games, tho
 
 <div align="center">
 
-[![zkConSeq](https://github-readme-stats.vercel.app/api/pin/?username=xyldxal&repo=zkConSeq&theme=tokyonight)](https://github.com/xyldxal/zkConSeq)
-[![Pokemon-Monsoon](https://github-readme-stats.vercel.app/api/pin/?username=xyldxal&repo=Pokemon-Monsoon&theme=tokyonight)](https://github.com/xyldxal/Pokemon-Monsoon)
+[![zkConSeq](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xyldxal&repo=zkConSeq&theme=tokyonight)](https://github.com/xyldxal/zkConSeq)
+[![Pokemon-Monsoon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xyldxal&repo=Pokemon-Monsoon&theme=tokyonight)](https://github.com/xyldxal/Pokemon-Monsoon)
 
 </div>
 
