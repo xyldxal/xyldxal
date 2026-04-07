@@ -1,77 +1,94 @@
-# 🎮 Hello, I'm Marx! 👋  
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marx!+%F0%9F%91%8B;@xyldxal;Game+developer+%F0%9F%8E%AE;Pok%C3%A9mon+master+%E2%9C%A8;Software+engineer+%F0%9F%92%BB;Sudoku+savant+%F0%9F%A7%A9;Bioinformaticist%2C+apparently+%F0%9F%AA%BA;Taking+drowning+lessons+%F0%9F%8C%8A;Strawberry+fields%2C+forever.+%F0%9F%8D%93;Is+this+Tagalog%3F+%F0%9F%87%B5%F0%9F%87%AD;Midas+touch.+%E2%9C%A8;404%2C+not+Found+in+the+system;404%2C+the+new+era%2C+era" alt="Typing SVG" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyldxal&label=Profile%20views&color=9F2B68&style=flat" alt="xyldxal" /> </p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xyldxal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyldxal@gmail.com)
+
+[![Gholdengo](https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png)](https://pokemondb.net/pokedex/gholdengo)
+
+![xyldxal](https://komarev.com/ghpvc/?username=xyldxal&label=Profile%20views&color=9F2B68&style=for-the-badge)
+
+</div>
 
 ## 👀 **About me** 
 
-- 🌟 **Aspring game developer**! My passion is on RPG and adventure games.
-- 🌱 **Aspiring full-stack developer**. Nevertheless, computer science has always been a passion my whole life.
-- 🎓 Pursuing a **Bachelor's degree in Computer Science** at the University of the Philippines Manila
-- 🩺 Majoring in **Biomedical Informatics**
+I am an aspiring game developer with a passion for RPGs and adventure games, though computer science has been a lifelong pursuit of mine. Currently, I am pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila, where I am majoring in Biomedical Informatics.
 
 ## 🚀 **What I’m up to**
 
-- **👾Pokémon ROM Hack**: I'm working on Pokemon Monsoon, a ROM hack involving a region inspired by the Philippines.  
-- **✨Studying**: My curriculum courses, ROM scripting, Unity and Blender, and anything I can get my hands into.
-- 🤝 **Looking to collaborate** with fellow game designers and developers, and other software engineers
+- **🔬 Thesis**: Currently working on my thesis involving a VR platform for early Alzheimer's disease and mild cognitive impairment rehabilitation with adaptive difficulty.
+- **👾 Pokémon Monsoon**: Developing a region inspired by the Philippines in this ROM hack project.
+- **✨ Studying**: Diving deep into cryptography, retro console ROM scripting, game engines, and Blender—essentially anything I can place my initiative on.
+- **🤝 Looking to collaborate** with game designers, developers, software engineers, researchers, and other cool people.
 
+## 🎮 Games
+
+<div align="center">
+
+<a href="https://xyldxal.itch.io/hatinggabi">
+  <img src="./assets/itchio.png" alt="Hatinggabi by marx xyldxal" width="600">
+</a>
+
+</div>
+
+## ⭐ Featured Repositories
+
+<div align="center">
+
+[![zkConSeq](https://github-readme-stats.vercel.app/api/pin/?username=xyldxal&repo=zkConSeq&theme=tokyonight)](https://github.com/xyldxal/zkConSeq)
+[![Pokemon-Monsoon](https://github-readme-stats.vercel.app/api/pin/?username=xyldxal&repo=Pokemon-Monsoon&theme=tokyonight)](https://github.com/xyldxal/Pokemon-Monsoon)
+
+</div>
 
 ## 🛠️ **Skills & tools**
 
 <div align="center">
 
 ### Programming
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x86-2C2255?logo=assemblyscript&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x86-2C2255?style=for-the-badge&logo=assembly-script&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2255?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Design & tools
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
 ### Computer science!
-![Calculus I-III](https://img.shields.io/badge/Calculus_I--III-%232C2255?logo=integral&logoColor=white&labelColor=2C2255)
-![Discrete Mathematics](https://img.shields.io/badge/Discrete_Math-%23007296?logo=mathworks&logoColor=white&labelColor=007296)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-%230092EE?logo=matrix&logoColor=white&labelColor=0092EE)
-![Statistics](https://img.shields.io/badge/Statistics-%23FF6F61?logo=chart-bar&logoColor=white&labelColor=FF6F61)
-![Logic Design](https://img.shields.io/badge/Logic_Design-%235E35B1?logo=circuit-diagram&logoColor=white&labelColor=5E35B1)
-![Health Informatics](https://img.shields.io/badge/Health_Informatics-%23009688?logo=medical-bag&logoColor=white&labelColor=009688)
+![Calculus](https://img.shields.io/badge/Calculus-2C2255?style=for-the-badge&logo=mathworks&logoColor=white)
+![Discrete Math](https://img.shields.io/badge/Discrete_Math-007296?style=for-the-badge&logo=matrix&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=chart-bar&logoColor=white)
 
 </div>
-
-## 📫 Contact me!
-
-<div align="center">
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/xyldxal)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:xyldxal@gmail.com)
-
-</div>
-
-<!---
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?logo=about.me&logoColor=white)](https://yourportfolio.site)
---->
