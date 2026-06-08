@@ -98,18 +98,27 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 ![Calculus](https://img.shields.io/badge/Calculus-2C2255?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Discrete Math](https://img.shields.io/badge/Discrete_Math-007296?style=for-the-badge&logo=matrix&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=chart-bar&logoColor=white)
-
 </div>
 
 
 ## *My favorite Pokemon! (upd. 08 June 2026)*
-<div align="center" style="display: inline-flex;">
-
-[![Gholdengo](https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png)](https://pokemondb.net/pokedex/gholdengo)
-[![Venusaur](https://img.pokemondb.net/sprites/scarlet-violet/normal/venusaur.png)](https://pokemondb.net/pokedex/venusaur)
-[![Golurk](https://img.pokemondb.net/sprites/scarlet-violet/normal/golurk.png)](https://pokemondb.net/pokedex/golurk)
-[![Sylveon](https://img.pokemondb.net/sprites/scarlet-violet/normal/sylveon.png)](https://pokemondb.net/pokedex/sylveon)
-[![Ogerpon](https://img.pokemondb.net/sprites/scarlet-violet/normal/ogerpon-wellspring.png)](https://pokemondb.net/pokedex/ogerpon)
-[![Jirachi](https://img.pokemondb.net/sprites/scarlet-violet/normal/jirachi.png)](https://pokemondb.net/pokedex/jirachi)
-  
+<div align="center">
+  <a href="https://pokemondb.net/pokedex/venusaur">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/3.gif" alt="Venusaur" height="120" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/volcarona">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/637.gif" alt="Volcarona" height="115" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/gholdengo">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/1000.gif" alt="Gholdengo" height="110" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/jirachi">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/385.gif" alt="Jirachi" height="80" />
+  </a>
+  <a href="https://pokemondb.net/pokedex/sylveon">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/700.gif" alt="Sylveon" height="100""/>
+  </a>
+  <a href="https://pokemondb.net/pokedex/golurk">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/623.gif" alt="Golurk" height="130" />
+  </a>
 </div>
