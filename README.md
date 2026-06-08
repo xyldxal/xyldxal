@@ -11,18 +11,19 @@
 
 </div>
 
-## 👀 **About me** 
+## **About me** 
 
-I am an aspiring game developer with a passion for RPGs and adventure games, though computer science has been a lifelong pursuit of mine. Nevertheless, I can thrive as a jack of all trades. Currently, I am pursuing a Bachelor's degree in Computer Science at the University of the Philippines Manila, where I am majoring in Biomedical Informatics.
+I am an aspiring game developer, software engineer, and doctor in computer science. I thrive as a jack of all trades :p. Currently, I am graudating student of a Bachelor's degree in Computer Science at the University of the Philippines Manila, with a major in Biomedical Informatics.
 
-## 🚀 **What I’m up to**
+## **What I’m up to...**
 
-- **My thesis**: I'm currently working on my thesis involving a VR platform for early Alzheimer's disease and mild cognitive impairment rehabilitation with adaptive difficulty.
-- **Pokémon ROM Hack**: I'm working on Pokemon Monsoon, a ROM hack involving a region inspired by the Philippines.  
-- **Studying**: Cryptography, retro console ROM scripting, game engines, and Blender—essentially anything I can place my initiative on.
-- Looking to collaborate with game designers, developers, software engineers, researchers, and other **cool people**.
+- I'm building Pokemon Monsoon, a ROM hack involving a region inspired by the Philippines.
+- I'm also working on a 2.5D game project about a three-part story on an post-apocalyptic world powered by the radioactive element Aetherium-9.
+- Studying game engines, cryptography techniques, retro console ROM scripting, and Blender --- essentially anything I can place my initiative on.
+- Looking to collaborate with game developers, developers, software engineers, researchers, and other **cool people**. Call me xoxo. 
 
-## 🎮 Games
+
+## Games
 
 <div align="center">
 
@@ -32,7 +33,7 @@ I am an aspiring game developer with a passion for RPGs and adventure games, tho
 
 </div>
 
-## ⭐ Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
@@ -41,7 +42,7 @@ I am an aspiring game developer with a passion for RPGs and adventure games, tho
 
 </div>
 
-## 🛠️ **Skills & tools**
+## **Skills & tools**
 
 <div align="center">
 
