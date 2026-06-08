@@ -103,25 +103,22 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 
 ## *My favorite Pokemon! (upd. 08 June 2026)*
 <div align="center">
-  <a href="https://pokemondb.net/pokedex/golurk">
-    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/623.gif" alt="Golurk" height="130" />
+  <a href="https://pokemondb.net/pokedex/venusaur">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/3.gif" alt="Venusaur" height="120" />
+  </a>
   <a href="https://pokemondb.net/pokedex/gholdengo">
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/1000.gif" alt="Gholdengo" height="110" />
   </a>
   <a href="https://pokemondb.net/pokedex/volcarona">
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/637.gif" alt="Volcarona" height="115" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://pokemondb.net/pokedex/jirachi">
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/385.gif" alt="Jirachi" height="80" />
   </a>
-  <a href="https://pokemondb.net/pokedex/venusaur">
-    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/3.gif" alt="Venusaur" height="120" />
-  </a>
-  </a>
   <a href="https://pokemondb.net/pokedex/sylveon">
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/700.gif" alt="Sylveon" height="100"/>
+  </a>
+  <a href="https://pokemondb.net/pokedex/golurk">
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/623.gif" height="130" />
   </a>
 </div>
