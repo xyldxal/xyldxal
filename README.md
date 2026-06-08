@@ -116,7 +116,7 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/385.gif" alt="Jirachi" height="80" />
   </a>
   <a href="https://pokemondb.net/pokedex/sylveon">
-    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/700.gif" alt="Sylveon" height="100""/>
+    <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/700.gif" alt="Sylveon" height="100"/>
   </a>
   <a href="https://pokemondb.net/pokedex/golurk">
     <img src="https://s3.pokeos.com/pokeos-uploads/assets/pokemon/home/animated/623.gif" alt="Golurk" height="130" />
