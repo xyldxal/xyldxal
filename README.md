@@ -12,7 +12,7 @@
 
 ## **About me** 
 
-I am an aspiring game developer, software engineer, and doctor in computer science. I thrive as a jack of all trades :p. Currently, I am graudating student of a Bachelor's degree in Computer Science at the University of the Philippines Manila, with a major in Biomedical Informatics.
+I am an aspiring game developer, software engineer, and doctor in computer science. I thrive as a jack of all trades :p. Currently, I am graduating student of a Bachelor's degree in Computer Science at the University of the Philippines Manila, with a major in Biomedical Informatics.
 
 ## **What I’m up to...**
 
@@ -41,13 +41,20 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 
 </div>
 
-## **Skills & tools**
+## **Experience in...**
 
 <div align="center">
 
-### Programming
+### Game engines
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF?style=for-the-badge&logo=godot-engine)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
+![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-FFFFFF?style=for-the-badge&logo=cocos)
+
+
+
+### Programming
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,17 +62,18 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 ![Assembly](https://img.shields.io/badge/Assembly_x86-2C2255?style=for-the-badge&logo=assembly-script&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Science & ML
+### Data science
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?style=for-the-badge&logo=Jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2255?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Web development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Databases
@@ -86,7 +94,7 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
-### Computer science!
+### ...Computer science!
 ![Calculus](https://img.shields.io/badge/Calculus-2C2255?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Discrete Math](https://img.shields.io/badge/Discrete_Math-007296?style=for-the-badge&logo=matrix&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=chart-bar&logoColor=white)
