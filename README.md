@@ -5,11 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xyldxal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyldxal@gmail.com)
 
-[![Gholdengo](https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png)](https://pokemondb.net/pokedex/gholdengo)
-
 ![xyldxal](https://komarev.com/ghpvc/?username=xyldxal&label=Profile%20views&color=9F2B68&style=for-the-badge)
 
 </div>
+
 
 ## **About me** 
 
@@ -92,4 +91,17 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 ![Discrete Math](https://img.shields.io/badge/Discrete_Math-007296?style=for-the-badge&logo=matrix&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=chart-bar&logoColor=white)
 
+</div>
+
+
+## *My favorite Pokemon! (upd. 08 June 2026)*
+<div align="center" style="display: inline-flex;">
+
+[![Gholdengo](https://img.pokemondb.net/sprites/scarlet-violet/normal/gholdengo.png)](https://pokemondb.net/pokedex/gholdengo)
+[![Venusaur](https://img.pokemondb.net/sprites/scarlet-violet/normal/venusaur.png)](https://pokemondb.net/pokedex/venusaur)
+[![Golurk](https://img.pokemondb.net/sprites/scarlet-violet/normal/golurk.png)](https://pokemondb.net/pokedex/golurk)
+[![Sylveon](https://img.pokemondb.net/sprites/scarlet-violet/normal/sylveon.png)](https://pokemondb.net/pokedex/sylveon)
+[![Ogerpon](https://img.pokemondb.net/sprites/scarlet-violet/normal/ogerpon-wellspring.png)](https://pokemondb.net/pokedex/ogerpon)
+[![Jirachi](https://img.pokemondb.net/sprites/scarlet-violet/normal/jirachi.png)](https://pokemondb.net/pokedex/jirachi)
+  
 </div>
