@@ -32,15 +32,6 @@ I am an aspiring game developer, software engineer, and doctor in computer scien
 
 </div>
 
-## Featured Repositories
-
-<div align="center">
-
-[![zkConSeq](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xyldxal&repo=zkConSeq&theme=tokyonight)](https://github.com/xyldxal/zkConSeq)
-[![Pokemon-Monsoon](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xyldxal&repo=Pokemon-Monsoon&theme=tokyonight)](https://github.com/xyldxal/Pokemon-Monsoon)
-
-</div>
-
 ## **Experience in...**
 
 <div align="center">
